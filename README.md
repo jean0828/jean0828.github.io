@@ -48,8 +48,8 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 ```yml
 username: Lorem Ipsum
 user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+user_title: Jean Pierre
+email: usero@mail.com
 ```
 
 > Don't forget to change your URL before you deploy your site!
@@ -67,7 +67,7 @@ email: mauriurraco@gmail.com
 You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
 
 ```html
-<a aria-label="My Github" target="_blank" href="https://github.com/murraco">
+<a aria-label="My Github" target="_blank" href="https://github.com/jean0828">
   <i class="icon fa fa-github-alt" aria-hidden="true"></i>
 </a>
 ```
